@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://apurva131.github.io/csb-cvf2l/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://apurva131.github.io/csb-cvf2l/static/js/main.b2ddf204.chunk.js",
+    "main.js.map": "https://apurva131.github.io/csb-cvf2l/static/js/main.b2ddf204.chunk.js.map",
+    "runtime-main.js": "https://apurva131.github.io/csb-cvf2l/static/js/runtime-main.8d79de3a.js",
+    "runtime-main.js.map": "https://apurva131.github.io/csb-cvf2l/static/js/runtime-main.8d79de3a.js.map",
+    "static/js/2.aabc08de.chunk.js": "https://apurva131.github.io/csb-cvf2l/static/js/2.aabc08de.chunk.js",
+    "static/js/2.aabc08de.chunk.js.map": "https://apurva131.github.io/csb-cvf2l/static/js/2.aabc08de.chunk.js.map",
+    "index.html": "https://apurva131.github.io/csb-cvf2l/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://apurva131.github.io/csb-cvf2l/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.aabc08de.chunk.js.LICENSE.txt": "https://apurva131.github.io/csb-cvf2l/static/js/2.aabc08de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d79de3a.js",
+    "static/js/2.aabc08de.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b2ddf204.chunk.js"
+  ]
+}
